@@ -1,0 +1,14 @@
+SOLAR ILLUMINATION PREDICTIONS
+       Selecting [S] from PREDICT's main menu  will  allow  solar
+       illumination  predictions  to  be made.  These predictions
+       indicate how much sunlight  a  particular  satellite  will
+       receive  in  a  24 hour period.  This information is espe-
+       cially valuable  to  spacecraft  designers  and  satellite
+       groundstation  controllers  who  must  monitor  spacecraft
+       power budgets or thermal conditions on-board their  space-
+       craft due to sunlight and eclipse periods.  It can even be
+       used to predict the optimum times for astronauts  to  per-
+       form  extra-vehicular activities in space. Solar illumina-
+       tion predictions may be logged to a file in the same  man-
+       ner  that  orbital  predictions may be logged (by pressing
+       L).
